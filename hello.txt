@@ -11,6 +11,7 @@ class AddNumbers
       y = in.nextInt();
 <<<<<<< HEAD
       z = x + y - Z;
+      z = x + y + z;
       System.out.println("Sum of entered integers = "+z);
    }
 }
