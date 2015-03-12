@@ -11,8 +11,6 @@ class AddNumbers
       y = in.nextInt();
 <<<<<<< HEAD
       z = x + y - Z;
-<<<<<<< HEAD
-=======
 =======
       z = x + y + z;
 >>>>>>> origin/master
