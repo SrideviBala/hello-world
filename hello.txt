@@ -17,6 +17,7 @@ class AddNumbers
 <<<<<<< HEAD
 >>>>>>> origin/master
       System.out.println("Sum of entered integers = "+y);
+      System.out.println("Sum of entered integers = "+yy);
 =======
 >>>>>>> origin/master
    }
