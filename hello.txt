@@ -14,7 +14,5 @@ class AddNumbers
 =======
       z = x + y + z;
 >>>>>>> origin/master
-      System.out.println("Sum of entered integers = "+x);
-      System.out.println("Sum of entered integers = "+z);
    }
 }
