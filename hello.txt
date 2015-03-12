@@ -16,7 +16,10 @@ class AddNumbers
 =======
       z = x + y + z;
 >>>>>>> origin/master
+<<<<<<< HEAD
 >>>>>>> origin/master
       System.out.println("Sum of entered integers = "+y);
+=======
+>>>>>>> origin/master
    }
 }
